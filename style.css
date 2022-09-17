@@ -1,0 +1,94 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+   text-align: center;
+   font-family: arial;
+   font-size: 30px;
+   color: #c9d1d9;
+   margin-bottom: 30px;
+}
+body{
+    background-color: #21262d;;
+}
+.quem-sou-eu{
+    margin-bottom: 50px;
+    text-align: center;
+    color:#c9d1d9 ;
+    font-family: arial;
+}
+.sobre-mim{
+    font-size: 20px;
+    font-family: Times New Roman;
+}
+
+.minha-imagem{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 150px;
+    width: 150px;
+}
+
+.redes-sociais{
+    margin-bottom: 50px;
+    text-align: center;
+    color: #c9d1d9;
+    font-family: arial;
+}
+
+.body-familia{
+    font-size: 18px;
+    text-align: center;
+    font-family: arial;
+    color: #c9d1d9;
+    margin-bottom: 50px;
+}
+.foto-familia{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 150px;
+    width: 150px;
+
+}
+
+.imagem-programação{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    height: 150px;
+    width: 180px;
+}
+
+.body-sonhos{
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: arial;
+    color: #c9d1d9;
+    font-size: 20px;
+}
+
+.body-hobbies{
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: arial;
+    color: #c9d1d9;
+    font-size: 20px;
+}
+
+.hobbies{
+    margin-top: 30px;
+    height: 150px;
+    width: 150px;
+}
+
+footer{
+    margin-top: 30px;
+    text-align: center;
+    font-family: arial;
+    font-size: 20px;
+    color: #c9d1d9;
+    margin-bottom: 80px;
+}
